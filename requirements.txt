@@ -1,0 +1,7 @@
+Requirement: (For Tensorflow)
+Python 3.8 (for tensorflow 2) 
+
+Packages: 
+tensorflow (version 2.2.0)
+numpy (version 1.18.5) 
+pandas (version 1.0.5) 
